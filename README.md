@@ -1,6 +1,6 @@
 # MIPS-Assembly-Projects
 This reposiroty showcases the lab works done during cs 224 course with MIPS Assembly.
-repository structure is as follows
+Repository structure is as follows:
   1. Basics & arithmetic: Fundamental programs focusing on system calls and core operations.
          helloWorld: basic output using system calls
          mathCalculation: simple integer arithmetic and user input
